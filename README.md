@@ -18,3 +18,14 @@ Artefacts and data related to the analysis of two Ragnar Locker ransomware strai
 - [VitusTotal](https://www.virustotal.com/gui/file/dd79b2abc21e766fe3076038482ded43e5069a1af9e0ad29e06dce387bfae900/detection)
 - [ANY.RUN](https://app.any.run/tasks/63be87a3-283b-44fd-add2-c5a824a48e7e/)
 - [JoeSandbox Cloud](https://www.joesandbox.com/analysis/292209/1/html)
+
+
+## YARA Rule
+The [YARA Rule](docs/RagnarLocker.yar) is designed to detect the two strains analysed for the assessment. However, traits that are highly spesific for only one strain has been avoided in favour of creating a rule that is likely to detect several strains from the Ragnar Locker family. 
+
+
+## Presentation
+The [PowerPoint presentation](https://github.com/Powsnow/Ragnar_Locker/blob/2fdec80457a9578c4c03bc90c36be60f932c95e5/Comparative%20Analysis%20of%20the%20Ragnar%20Locker%20Ransomware_GitHub.pptx) is the slides used when presenting the project at NUCs Mini Conference. The slides include a transribation of the presentation. 
+
+## Encrypted File Comparison
+The [encrypted file comparison](https://github.com/Powsnow/Ragnar_Locker/tree/main/Encrypted%20file%20comparison) folder holds three text files. One original file, and then the same file encrypted with strain 1 and strain 2. 
