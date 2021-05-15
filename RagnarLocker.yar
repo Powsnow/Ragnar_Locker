@@ -11,12 +11,12 @@ rule Ragnar_Locker
         $x1 = { 52 41 47 4e 20 4b 45 59 } // RAGN KEY
         $x2 = { 52 41 47 4e 41 52 20 53 45 43 52 45 54 } // RAGNAR SECRET
         $a1 = "1E4A89B11EAE0FCF8BB5FDD5EC3B6F61" // MD5 of Manifest
-        $s2 = { 62 6f 6f 74 ?? ?? ?? 74 2e 62 ?? ?? } // bootfont and bootsect
-        $s3 = { 62 6f 6f 74 6d 67 72 2e 65 66 69 } // bootmgr.efi
-        $s4 = { 53 44 3b 53 44 77 } // SD;SDw
-        $s5 = { 4b 3c 5e 5f 5b 5d } // K<^_[]
-        $s6 = "PHYSICALDRIVE%d" fullword wide
-        $s8 = { 25 73 2d 25 73 2d 25 73 2d 25 73 2d 25 73 } // %s-%s-%s-%s-%s
+        $s1 = { 62 6f 6f 74 ?? ?? ?? 74 2e 62 ?? ?? } // bootfont and bootsect
+        $s2 = { 62 6f 6f 74 6d 67 72 2e 65 66 69 } // bootmgr.efi
+        $s3 = { 53 44 3b 53 44 77 } // SD;SDw
+        $s4 = { 4b 3c 5e 5f 5b 5d } // K<^_[]
+        $s5 = "PHYSICALDRIVE%d" fullword wide
+        $s6 = { 25 73 2d 25 73 2d 25 73 2d 25 73 2d 25 73 } // %s-%s-%s-%s-%s
 
     condition:
         filesize > 35000 and filesize < 75000 and 
