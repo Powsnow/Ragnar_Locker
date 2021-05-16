@@ -41,7 +41,7 @@ The [Strain 1](https://github.com/Powsnow/Ragnar_Locker/tree/main/Strain%201) an
 
    Ransom note*
 
-*The ransom note of strain 2 has been modified for publication so that it does not list the URLs for the Ragnar Locker DLS.
+_*The ransom note of strain 2 has been modified for publication so that it does not list the URLs for the Ragnar Locker DLS._
 
 ## YARA Rule
 The [YARA Rule](docs/RagnarLocker.yar) is designed to detect the two strains analysed for the assessment. However, traits that are highly spesific for only one strain has been avoided in favour of creating a rule that is likely to detect several strains from the Ragnar Locker family. 
@@ -54,7 +54,7 @@ The [encrypted file comparison](https://github.com/Powsnow/Ragnar_Locker/tree/ma
 The [PowerPoint presentation](https://github.com/Powsnow/Ragnar_Locker/blob/2fdec80457a9578c4c03bc90c36be60f932c95e5/Comparative%20Analysis%20of%20the%20Ragnar%20Locker%20Ransomware_GitHub.pptx) is the slides used when presenting the project at NUCs Mini Conference. The slides include a transribation of the presentation. 
 
 ## Short Paper
-The [Short Paper](https://github.com/Powsnow/Ragnar_Locker/blob/2fdec80457a9578c4c03bc90c36be60f932c95e5/Comparative%20Analysis%20of%20the%20Ragnar%20Locker%20Ransomware_GitHub.pptx) is a LaTeX zip folder holding the Short Paper written as part of the assignment. 
+The [Short Paper](https://github.com/Powsnow/Ragnar_Locker/blob/2fdec80457a9578c4c03bc90c36be60f932c95e5/Comparative%20Analysis%20of%20the%20Ragnar%20Locker%20Ransomware_GitHub.pptx) contain a LaTeX zip folder and a PDF of the Short Paper written as part of the assignment. 
 
 ## Final Degree Paper
 The [Final Degree Paper](https://github.com/Powsnow/Ragnar_Locker/blob/2fdec80457a9578c4c03bc90c36be60f932c95e5/Comparative%20Analysis%20of%20the%20Ragnar%20Locker%20Ransomware_GitHub.pptx) is a LaTeX zip folder holding the final paper delivered in partial fulfilment of the degree Bachelor in Digital Forensics at NUC, 2021.  
