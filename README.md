@@ -57,4 +57,4 @@ The [PowerPoint presentation](https://github.com/Powsnow/Ragnar_Locker/blob/2fde
 The [Short Paper](https://github.com/Powsnow/Ragnar_Locker/blob/2fdec80457a9578c4c03bc90c36be60f932c95e5/Comparative%20Analysis%20of%20the%20Ragnar%20Locker%20Ransomware_GitHub.pptx) contain a LaTeX zip folder and a PDF of the Short Paper written as part of the assignment. 
 
 ## Final Degree Paper
-The [Final Degree Paper](https://github.com/Powsnow/Ragnar_Locker/blob/2fdec80457a9578c4c03bc90c36be60f932c95e5/Comparative%20Analysis%20of%20the%20Ragnar%20Locker%20Ransomware_GitHub.pptx) is a LaTeX zip folder holding the final paper delivered in partial fulfilment of the degree Bachelor in Digital Forensics at NUC, 2021.  
+The [Final Degree Paper](https://github.com/Powsnow/Ragnar_Locker/tree/main/Final%20Degree%20Paper) is a LaTeX zip folder and a PDF of the final paper delivered in partial fulfilment of the degree Bachelor in Digital Forensics at NUC, 2021.  
